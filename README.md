@@ -1,5 +1,9 @@
 # Flight-Price-Prediction
 
+## Dataset
+The Dataset is available on kaggle.
+https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/
+
 ## Overview 
 Flight Price Prediction is the project of regression problem . It helps to predict the Flight Price on the basis of **Airline**, **Source**, **Destination**, **Number of Stops**, **Date of Journey**
 
