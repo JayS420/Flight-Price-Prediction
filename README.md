@@ -24,6 +24,9 @@ What to do when you are at home due to this pandemic situation? I started to bui
 3. Random Forest Regressor - 0.8119075493156853
 
 ## Random Forest Regressor Prediction
+<img src = "Flight-Price-Prediction/model prediction vs actual points.png"
+
+
 
 
 
